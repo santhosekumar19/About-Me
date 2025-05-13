@@ -1,112 +1,79 @@
----
-layout: default
-title: "Santhose Kumar S"
----
 
-<style>
-  h1, h2, h3 { color: #2c3e50; }
-  p, li { line-height: 1.6; font-size: 1.05rem; }
-  ul { margin-bottom: 1rem; }
-  img.profile-pic {
-    border-radius: 12px;
-    box-shadow: 0 8px 24px rgba(0,0,0,0.2);
-    margin-bottom: 1rem;
-  }
-</style>
+<p align="center">
+  <img src="santhosh_PP_White.jpg" width="150" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);" alt="Santhose Kumar S" />
+</p>
 
-<center>
-  <img src="santhosh_PP_White.jpg" alt="Santhose Kumar S" width="150" class="profile-pic" />
-  
-  # 👋 Hi, I’m **Santhose Kumar S**
-  ### 🧠 Staff Full Stack Engineer | 💡 Architect | ☁️ AWS | 🔥 React & Node.js Expert
+# 👋 Hi, I'm **Santhose Kumar S**  
+### 🧠 Staff Full Stack Engineer | 💡 Architect | ☁️ AWS | 🔥 React & Node.js Expert  
 
-  📍 Based in **Bangalore, India**
-
-  📧 [santhosekumar@ymail.com](mailto:santhosekumar@ymail.com) • 🔗 [LinkedIn](https://www.linkedin.com/in/santhosefullstack) • 💻 [GitHub](https://github.com/santskumar)
-</center>
+📍 **Bangalore, India**  
+📧 [Email](mailto:santhosekumar@ymail.com) • [🔗 LinkedIn](https://www.linkedin.com/in/santhose-kumar-s-578515118/) • [💻 GitHub](https://github.com/santhosekumar19/)
 
 ---
 
-## 🧭 About Me
+## 🧭 About Me  
+I’m a passionate engineer with 12+ years of experience building performant, scalable, and elegant SaaS platforms. I love working across the stack—from designing intuitive UIs to architecting resilient backends and cloud infrastructure.
 
-I’m a passionate full stack engineer with 12+ years of experience solving complex problems through code. From scaling enterprise SaaS platforms to leading architecture for mission-critical applications, I bring technical depth and product intuition together.
-
-I specialize in building systems that are:
-- ⚡ **Fast** (SSR, Caching, GraphQL)
-- 🔒 **Secure** (OAuth2, Auth0, custom RBAC)
-- 🧩 **Modular & Scalable** (Monorepos, CI/CD, DDD)
-- ❤️ **Loved by users and dev teams alike**
-
-I love working with small teams where quality, autonomy, and clarity drive execution.
+I take pride in:
+- ✨ Building user-friendly experiences
+- 🧠 Designing smart, scalable systems
+- 🤝 Mentoring teams and enabling growth
+- 🚀 Delivering high-quality, measurable impact
 
 ---
 
-## 🔧 Technical Skills
+## 🛠️ Technical Toolbox  
 
-### 🌐 Frontend
-- React, Next.js, TypeScript, Redux, Tailwind CSS
-- SSR/ISR, Component Libraries, Accessibility (WCAG)
-
-### 🛠 Backend
-- Node.js, Express.js, GraphQL, REST APIs
-- Redis, MongoDB, PostgreSQL, MySQL
-
-### ☁️ Cloud & DevOps
-- AWS (Lambda, API Gateway, S3, DynamoDB)
-- Docker, Jenkins, GitHub Actions, CI/CD Pipelines
-
-### 🧪 Testing & Monitoring
-- Jest, Cypress, Postman, Sentry, New Relic
+| 🚀 Frontend | 🧩 Backend | ☁️ Cloud & DevOps | 🗃️ Databases |
+|------------|------------|-------------------|--------------|
+| React, Next.js, Angular, Tailwind CSS | Node.js, Express.js, GraphQL, REST | AWS Lambda, S3, API Gateway, Docker, GitHub Actions, Jenkins | MongoDB, PostgreSQL, Redis |
 
 ---
 
-## 💼 Professional Experience
+## 💼 Professional Experience  
 
-### 👨‍💻 **Okta Inc** — *Staff Software Engineer*  
-📆 Mar 2024 – Present
-- 🚀 Built a custom SSR bridge using Express & Redis between Auth0 dashboard and docs platform
-- 📈 Improved SEO by 40%, reduced page load time by 30%, and enabled content preview for non-dev teams
+### 🏢 **Okta Inc** — _Staff Software Engineer_  
+📅 Mar 2024 – Present  
+- 🔁 Built a custom SSR bridge between Auth0 Dashboard and Docs using Express & Redis  
+- 📈 Improved SEO by 40% and reduced page load by 30%  
+- 🧪 Enabled live content preview for docs team  
 
-### 👨‍💻 **Randstad (Carbon Credit Exchange)** — *Software Consultant*  
-📆 Jun 2022 – May 2023
-- 🌍 Led full-stack build of a high-traffic carbon credit trading platform
-- 🧪 Implemented automated testing with GitHub Actions and reduced production bugs by 35%
+### 🏢 **Randstad** — _Software Consultant (Carbon Credit Platform)_  
+📅 Jun 2022 – May 2023  
+- 🌱 Architected and delivered a scalable carbon trading platform  
+- ⚙️ Integrated GraphQL APIs with React UI & AWS backend  
+- 🧹 Set up CI/CD with GitHub Actions  
 
-### 👨‍💻 **Honeywell** — *Advanced Software Engineer*  
-📆 Jun 2020 – Mar 2022
-- 🧱 Modernized enterprise UIs with React + TypeScript, improving modularity and developer velocity
-- 🔍 Introduced domain-driven architecture and design tokens for UI consistency
-
----
-
-## 📂 Highlight Projects
-
-### 🧱 **Custom SSR + Redis Cache Layer**
-Enhanced documentation platform at Okta with server-side rendering and caching — reduced build bottlenecks and improved live previewing.
-
-### 🌱 **Carbon Credit Trading Platform**
-Full-stack solution to verify and trade emissions at scale. Used AWS, GraphQL, and containerized architecture for high scalability.
-
-### 📊 **Decision Intelligence Dashboard**
-Interactive data-driven dashboards using GraphQL subscriptions and dynamic React UI components for real-time analytics.
+### 🏢 **Honeywell** — _Advanced Software Engineer_  
+📅 Jun 2020 – Mar 2022  
+- 🧱 Modernized React UIs with TypeScript, reducing tech debt  
+- 📊 Introduced DDD patterns & improved code reuse by 40%  
 
 ---
 
-## 🎓 Education
+## 🔬 Projects  
 
-🎓 B.E. in Electronics and Communication Engineering  
-🏫 Thiagarajar College of Engineering – Anna University (2015)
-
----
-
-## 🤝 Let’s Connect
-
-- 📫 **Email**: [santhosekumar@ymail.com](mailto:santhosekumar@ymail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/santhosefullstack](https://www.linkedin.com/in/santhosefullstack)
-- 💻 **GitHub**: [github.com/santskumar](https://github.com/santskumar)
+- 🔄 **SSR + Redis Caching Layer** — Reduced load time and improved real-time content visibility  
+- 🌍 **Carbon Credit Exchange** — Full-stack GraphQL-powered platform for carbon credit trading  
+- 📊 **Decision Intelligence Dashboards** — Real-time analytics dashboard with live data subscriptions
 
 ---
 
-<center>
-  🧑‍💻 Built with ❤️ by Santhose Kumar S · © 2024
-</center>
+## 🎓 Education  
+
+🎓 **B.E. in Electronics and Communication Engineering**  
+🏫 Thiagarajar College of Engineering, Anna University (2015)
+
+---
+
+## 🤝 Let’s Connect!  
+
+- 📫 [Email me](mailto:santhosekumar@ymail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/santhose-kumar-s-578515118/)  
+- 💻 [GitHub](https://github.com/santhosekumar19/)
+
+---
+
+<p align="center">
+  🔗 Built with ❤️ by <strong>Santhose Kumar S</strong> • 🌐 2025
+</p>
