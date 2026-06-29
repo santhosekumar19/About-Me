@@ -315,7 +315,7 @@ permalink: /
 <body>
   <nav class="nav">
     <div class="nav-inner">
-      <a class="brand" href="#top">Santhose<span>.</span></a>
+      <a class="brand" href="#top">Santhose Kumar S<span>.</span></a>
       <div class="nav-links">
         <a href="#about">About</a>
         <a href="#expertise">Expertise</a>
