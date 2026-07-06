@@ -438,7 +438,7 @@ permalink: /
         <span class="eyebrow">12+ years · Engineering, product & platform delivery</span>
         <h1>Turning complex systems into <span class="gradient">secure, scalable digital products.</span></h1>
         <p class="hero-copy">
-          I am <strong>Santhose Kumar S</strong> — a Staff / Lead Software Engineer, Technical Lead, and Engineering Manager.
+          I am <strong>Santhose Kumar S</strong> — a Staff / Lead Software Engineer, Technical Lead, and Engineering Manager, Engineering Leader.
           I build and modernize products across <strong>Banking, Insurance, Financial Services, SaaS, and enterprise platforms.</strong>
         </p>
 
