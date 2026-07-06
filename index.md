@@ -609,13 +609,13 @@ permalink: /
     <section id="connect" class="reveal" aria-labelledby="connect-heading">
       <div class="featured-grid">
         <article class="feature-card card">
-          <p class="section-label">Why This Profile Stands Out</p>
-          <h3>From Product Delivery To Platform Leverage.</h3>
-          <p>Built to communicate both technical depth and leadership readiness to recruiters, senior engineering leaders, and business stakeholders.</p>
+          <p class="section-label">Why Work With Me</p>
+          <h3>From Complex Delivery To Trusted Platform Outcomes.</h3>
+          <p>I combine hands-on engineering, product judgment, and delivery leadership to build secure digital platforms that improve customer journeys and scale with the business.</p>
           <ul class="feature-list">
-            <li><i>✓</i><span><strong>Recruiter-Ready Headline:</strong> Product, platform, AI, banking, and engineering leadership terms appear naturally and consistently.</span></li>
-            <li><i>✓</i><span><strong>Outcome-Led Experience:</strong> Roles emphasize architecture, measurable improvement, reliability, and team acceleration.</span></li>
-            <li><i>✓</i><span><strong>Mobile-First Presentation:</strong> The grid collapses cleanly for phone screens while retaining hierarchy and interaction.</span></li>
+            <li><i>✓</i><span><strong>Platform-First Thinking:</strong> I turn product needs into reusable APIs, resilient services, and cloud-native foundations that reduce future delivery effort.</span></li>
+            <li><i>✓</i><span><strong>Engineering Leadership In Practice:</strong> I set technical direction, strengthen ownership, mentor engineers, and create clear standards for quality and delivery.</span></li>
+            <li><i>✓</i><span><strong>Business Impact With Technical Depth:</strong> I focus on performance, reliability, secure integrations, speed to market, and measurable value for customers and stakeholders.</span></li>
           </ul>
         </article>
 
