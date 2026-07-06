@@ -433,7 +433,7 @@ permalink: /
           <div class="bento-icon">⚡</div>
           <h3>Modern Product Engineering</h3>
           <p>Leading full-stack product development across responsive web applications, workflow platforms, dashboards, and reusable frontend foundations.</p>
-          <div class="metric-line"><span class="pill">React</span><span class="pill">Next.js</span><span class="pill">TypeScript</span><span class="pill">Node.js</span></div>
+          <div class="metric-line"><span class="pill">React</span><span class="pill">Next.js</span><span class="pill">TypeScript</span><span class="pill">Node.js</span><span class="pill">Java / SpringBoot</span><span class="pill">Rust</span><span class="pill">Go</span></div>
         </article>
         <article class="bento-card bento-card--small card">
           <div class="bento-icon">🔐</div>
