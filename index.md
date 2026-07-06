@@ -401,7 +401,7 @@ permalink: /
             <h2>Santhose Kumar S</h2>
             <p>Product, Platform &amp; AI Engineering Leader</p>
             <div class="identity-meta">
-              <span>⌖ <b>Chennai, India</b></span>
+              <span>⌖ <b>Bengaluru, India</b></span>
               <span>◈ Banking • SaaS • Enterprise Platforms</span>
               <span>↗ Staff • Lead • Principal-Level Scope</span>
             </div>
