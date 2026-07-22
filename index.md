@@ -9,35 +9,35 @@ permalink: /
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
   <meta name="theme-color" content="#08111f" id="theme-color" />
-  <meta name="description" content="Santhose Kumar S is a Product, Platform & AI Engineering Leader building secure API-led, cloud-native and AI-enabled digital platforms for banking, SaaS and enterprise teams." />
-  <meta name="keywords" content="Product Engineering Leader, Platform Engineering Leader, AI Engineering Leader, Staff Software Engineer, Lead Software Engineer, Technical Lead, Engineering Manager, Banking Technology, FinTech, API-Led Architecture, Microservices, Node.js, Java, Spring Boot, React, Next.js, Kafka, AWS, Kubernetes, OpenShift, Digital Transformation, AI Adoption, MCP Automation" />
+  <meta name="description" content="Santhose Kumar S is a technology-agnostic Engineering Lead with 11+ years of experience across secure product platforms, IAM, fine-grained authorization, banking, wealth, insurance, sustainability, analytics, cloud-native systems, Generative AI, Agentic AI, and AI-enabled engineering." />
+  <meta name="keywords" content="Technology-Agnostic Engineer, Engineering Leadership, Technical Strategy, Platform Engineering, Product Engineering, Staff Software Engineer, Lead Software Engineer, Digital Transformation, Identity and Access Management, IAM, Fine-Grained Authorization, FGA, Identity Security, Banking Technology, Core Banking, Wealth Management Technology, Insurance Technology, FinTech, Sustainability Technology, Carbon Markets, ESG Platforms, Decision Analytics, Smart Buildings, Building Management Systems, Enterprise SaaS, API Architecture, Cloud-Native, Distributed Systems, AI Engineering, Generative AI, GenAI, Agentic AI, AI Agents, Large Language Models, LLM Applications, Retrieval-Augmented Generation, RAG, Model Context Protocol, MCP, Tool Calling, Prompt Engineering, AI-Assisted Software Development, AI Evaluation, AI Observability, Product Delivery, Engineering Excellence, Java, Spring Boot, Node.js, React, Kafka, Redis, AWS, Kubernetes, OpenShift" />
   <meta name="author" content="Santhose Kumar S" />
-  <link rel="canonical" href="{{ site.url }}{{ page.url | relative_url }}" />
+  <link rel="canonical" href="https://santhosekumar19.github.io/About-Me/" />
 
   <meta property="og:type" content="profile" />
-  <meta property="og:title" content="Santhose Kumar S | Product, Platform & AI Engineering Leader" />
-  <meta property="og:description" content="Building secure, scalable and AI-enabled digital platforms across banking, SaaS and enterprise technology." />
-  <meta property="og:url" content="{{ site.url }}{{ page.url | relative_url }}" />
+  <meta property="og:title" content="Santhose Kumar S | Technology-Agnostic Engineering Lead" />
+  <meta property="og:description" content="Technology-agnostic engineering leadership across secure platforms, identity, financial services, sustainability, analytics, cloud-native systems, Generative AI, Agentic AI, and AI-enabled modernization." />
+  <meta property="og:url" content="https://santhosekumar19.github.io/About-Me/" />
   <meta property="og:site_name" content="Santhose Kumar S" />
   <meta property="profile:first_name" content="Santhose" />
   <meta property="profile:last_name" content="Kumar S" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Santhose Kumar S | Product, Platform & AI Engineering Leader" />
-  <meta name="twitter:description" content="Secure API Platforms • Full-Stack Engineering • Cloud-Native Delivery • AI Adoption" />
+  <meta name="twitter:title" content="Santhose Kumar S | Technology-Agnostic Engineering Lead" />
+  <meta name="twitter:description" content="Platform Engineering • IAM &amp; FGA • Financial Services • Generative AI • Agentic AI • Cloud-Native Systems" />
 
-  <title>Santhose Kumar S | Product, Platform & AI Engineering Leader</title>
+  <title>Santhose Kumar S | Technology-Agnostic Engineering Lead</title>
 
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "Person",
     "name": "Santhose Kumar S",
-    "jobTitle": "Product, Platform & AI Engineering Leader",
-    "description": "Engineering leader specializing in banking technology, API-led architecture, full-stack product development, cloud-native systems and AI adoption.",
+    "jobTitle": "Technology-Agnostic Engineering Lead",
+    "description": "Technology-agnostic Engineering Lead with 11+ years of experience across secure platforms, IAM, fine-grained authorization, banking, wealth, insurance, sustainability, analytics, distributed systems, cloud-native delivery, Generative AI, Agentic AI and AI-enabled engineering.",
     "email": "mailto:santhosekumar@ymail.com",
     "telephone": "+91-90353-61129",
-    "url": "{{ site.url }}{{ page.url | relative_url }}",
+    "url": "https://santhosekumar19.github.io/About-Me/",
     "sameAs": [
       "https://www.linkedin.com/in/santhose-kumar-s-578515118/",
       "https://github.com/santhosekumar19/",
@@ -45,7 +45,19 @@ permalink: /
     ],
     "knowsAbout": [
       "Engineering Leadership",
+      "Technology-Agnostic Engineering",
+      "Identity and Access Management",
+      "Fine-Grained Authorization",
+      "Identity Security",
       "Banking Technology",
+      "Core Banking",
+      "Wealth Management Technology",
+      "Insurance Technology",
+      "Sustainability Technology",
+      "Carbon Markets",
+      "Decision Analytics",
+      "Smart Buildings",
+      "Building Management Systems",
       "Digital Transformation",
       "API-Led Architecture",
       "Microservices",
@@ -56,8 +68,23 @@ permalink: /
       "Apache Kafka",
       "AWS",
       "Kubernetes",
-      "AI Adoption"
-    ]
+      "AI Engineering",
+      "Generative AI",
+      "Agentic AI",
+      "AI Agents",
+      "Large Language Models",
+      "Retrieval-Augmented Generation",
+      "Model Context Protocol",
+      "Prompt Engineering",
+      "AI-Assisted Software Development",
+      "AI Evaluation and Observability",
+      "Technical Strategy",
+      "Engineering Excellence"
+    ],
+    "alumniOf": {
+      "@type": "CollegeOrUniversity",
+      "name": "Thiagarajar College of Engineering"
+    }
   }
   </script>
 
@@ -274,6 +301,15 @@ permalink: /
     .profile-links a { padding: 4px 0; border-bottom: 1px solid transparent; }
     .profile-links a:hover { color: var(--text); border-color: var(--primary); }
 
+
+    /* Education */
+    .education-card { display: grid; grid-template-columns: 72px minmax(0,1fr); gap: 20px; align-items: start; padding: 28px; }
+    .education-mark { display: grid; place-items: center; width: 72px; height: 72px; border-radius: 20px; color: #06111f; background: linear-gradient(135deg, var(--primary), var(--secondary)); font-size: 1.35rem; font-weight: 950; }
+    .education-card h3 { margin: 0; font-size: 1.22rem; letter-spacing: -.03em; }
+    .education-card p { margin: 7px 0 0; color: var(--muted); }
+    .education-meta { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 15px; }
+    .source-note { margin-top: 16px; color: var(--muted); font-size: .82rem; }
+
     footer { padding: 18px 0 42px; color: var(--muted); text-align: center; font-size: .87rem; }
     .reveal { opacity: 0; transform: translateY(16px); transition: opacity .52s ease, transform .52s ease; }
     .reveal.visible { opacity: 1; transform: translateY(0); }
@@ -327,6 +363,7 @@ permalink: /
       .stat { display: grid; grid-template-columns: auto 1fr; align-items: center; gap: 10px; }
       .stat span { margin: 0; }
       .feature-card, .connect-card, .keyword-card, .skills-panel { padding: 22px; }
+      .education-card { grid-template-columns: 1fr; padding: 22px; }
     }
     @media (prefers-reduced-motion: reduce) {
       html { scroll-behavior: auto; }
@@ -348,6 +385,7 @@ permalink: /
         <a href="#about">About</a>
         <a href="#expertise">Expertise</a>
         <a href="#experience">Experience</a>
+        <a href="#education">Education</a>
         <a href="#connect">Connect</a>
       </nav>
 
@@ -358,6 +396,7 @@ permalink: /
       <a href="#about">About</a>
       <a href="#expertise">Expertise</a>
       <a href="#experience">Experience</a>
+      <a href="#education">Education</a>
       <a href="#connect">Connect</a>
     </nav>
   </header>
@@ -366,32 +405,38 @@ permalink: /
     <section class="hero" id="top" aria-labelledby="hero-heading">
       <div class="profile-grid">
         <article class="profile-card">
-          <span class="eyebrow">12+ Years Of Product And Platform Delivery</span>
-          <h1 class="hero-title" id="hero-heading">Building <span class="gradient">Secure Digital Platforms</span> That Move Business Forward.</h1>
+          <span class="eyebrow">Technology-Agnostic Engineering Lead · 11+ Years Across Enterprise Platforms</span>
+          <h1 class="hero-title" id="hero-heading">I Engineer Platforms That <span class="gradient">Adapt, Scale, And Deliver.</span></h1>
           <p class="hero-summary">
-            I am <strong>Santhose Kumar S</strong>, a <strong>Product, Platform &amp; AI Engineering Leader</strong> who turns complex banking, SaaS, and enterprise workflows into reliable, scalable, customer-focused technology.
+            I am <strong>Santhose Kumar S</strong>, a <strong>technology-agnostic Engineering Lead</strong> who selects the right architecture, language, framework, and platform for each business problem. I combine hands-on product engineering, technical strategy, delivery leadership, and AI-enabled modernization across secure enterprise platforms and diverse industry domains.
           </p>
 
-          <div class="headline-keywords" aria-label="Professional Keywords">
-            <span class="pill">Banking Technology</span>
-            <span class="pill">API-Led Architecture</span>
-            <span class="pill">Cloud-Native Delivery</span>
-            <span class="pill">Full-Stack Engineering</span>
-            <span class="pill">AI Adoption</span>
+          <div class="headline-keywords" aria-label="Professional Focus">
+            <span class="pill">Technology-Agnostic Engineering</span>
+            <span class="pill">Platform &amp; Product Engineering</span>
+            <span class="pill">IAM &amp; FGA</span>
+            <span class="pill">Banking &amp; Wealth</span>
+            <span class="pill">Insurance Technology</span>
+            <span class="pill">Sustainability &amp; Carbon Markets</span>
+            <span class="pill">Analytics &amp; Smart Buildings</span>
+            <span class="pill">AI Engineering</span>
+            <span class="pill">Generative AI</span>
+            <span class="pill">Agentic AI &amp; AI Agents</span>
           </div>
 
           <div class="hero-actions">
             <a class="button button-primary" href="mailto:santhosekumar@ymail.com">Email Me <span aria-hidden="true">↗</span></a>
+            <a class="button button-secondary" href="assets/Santhose-Kumar-S-Resume.pdf" download>Download Resume <span aria-hidden="true">↓</span></a>
             <a class="button button-secondary" href="https://www.linkedin.com/in/santhose-kumar-s-578515118/" target="_blank" rel="noreferrer">View LinkedIn <span aria-hidden="true">↗</span></a>
             <a class="button button-secondary" href="https://medium.com/@santhosekumar_38747" target="_blank" rel="noreferrer">Read On Medium <span aria-hidden="true">↗</span></a>
             <button class="button button-secondary" id="copy-email" type="button">Copy Email</button>
           </div>
-          <div class="availability"><i aria-hidden="true"></i>Focused On High-Impact Product, Platform, And Engineering Leadership Opportunities</div>
+          <div class="availability"><i aria-hidden="true"></i>Open To Staff, Lead, Principal, Technical Leadership, Platform Engineering, And Modernization Opportunities</div>
 
           <div class="stats-grid" aria-label="Career Highlights">
-            <div class="stat"><b data-count="12">12+</b><span>Years Of Engineering Delivery</span></div>
-            <div class="stat"><b data-count="5">5</b><span>Enterprise Domains And Product Environments</span></div>
-            <div class="stat"><b data-count="2">2ms</b><span>Critical Request Path Achieved</span></div>
+            <div class="stat"><b data-count="11">11+</b><span>Years Of Engineering Experience</span></div>
+            <div class="stat"><b data-count="9">9</b><span>Industry And Product Domains</span></div>
+            <div class="stat"><b data-count="7">7</b><span>Enterprise Organizations</span></div>
           </div>
         </article>
 
@@ -399,20 +444,22 @@ permalink: /
           <article class="identity-card card">
             <div class="avatar" aria-hidden="true">SK</div>
             <h2>Santhose Kumar S</h2>
-            <p>Product, Platform &amp; AI Engineering Leader</p>
+            <p>Technology-Agnostic Engineering Lead</p>
             <div class="identity-meta">
               <span>⌖ <b>Bengaluru, India</b></span>
-              <span>◈ Banking • SaaS • Enterprise Platforms</span>
-              <span>↗ Staff • Lead • Principal-Level Scope</span>
+              <span>◈ IAM &amp; FGA • Banking &amp; Wealth • Insurance • Sustainability</span>
+              <span>◇ Analytics • Smart Buildings • Enterprise Platforms</span>
+              <span>✦ Generative AI • Agentic AI • AI-Enabled Engineering</span>
+              <span>↗ Engineering Lead At Emirates NBD</span>
             </div>
           </article>
 
           <article class="focus-card card">
             <h3>Leadership Focus</h3>
             <ul class="focus-list">
-              <li><i>01</i><span><strong>Product And Platform Strategy</strong>From Architecture To Measurable Delivery Outcomes.</span></li>
-              <li><i>02</i><span><strong>Modern Engineering Systems</strong>Secure APIs, Distributed Services, Observability, And Release Confidence.</span></li>
-              <li><i>03</i><span><strong>AI-Enabled Team Acceleration</strong>Practical Automation, Modernization, And Developer Productivity.</span></li>
+              <li><i>01</i><span><strong>Technical Strategy And Architecture</strong>Turning business priorities into secure APIs, scalable services, and practical modernization roadmaps.</span></li>
+              <li><i>02</i><span><strong>Engineering Excellence</strong>Strengthening code quality, observability, release governance, ownership, and delivery predictability.</span></li>
+              <li><i>03</i><span><strong>Team And Product Delivery</strong>Aligning engineering, product, QA, DevOps, integration, and platform teams around measurable outcomes.</span></li>
             </ul>
           </article>
         </aside>
@@ -422,36 +469,36 @@ permalink: /
     <section id="about" class="reveal" aria-labelledby="about-heading">
       <div class="section-header">
         <div>
-          <p class="section-label">Leadership Profile</p>
-          <h2 class="section-title" id="about-heading">Product Thinking, Platform Depth, And Delivery Momentum.</h2>
-          <p class="section-copy">I build the systems behind meaningful customer experiences: secure integration layers, robust distributed services, and polished product interfaces that help teams ship with clarity and confidence.</p>
+          <p class="section-label">Engineering Profile</p>
+          <h2 class="section-title" id="about-heading">Technology-Agnostic Engineering, Grounded In Domain Depth.</h2>
+          <p class="section-copy">I work from business capability to architecture, implementation, platform reliability, and delivery. Rather than being limited to one language, framework, cloud, or industry, I choose fit-for-purpose technologies and apply reusable engineering principles across secure digital products and enterprise platforms.</p>
         </div>
       </div>
 
       <div class="bento-grid">
         <article class="bento-card bento-card--wide card">
-          <div class="bento-icon">⚡</div>
-          <h3>Modern Product Engineering</h3>
-          <p>Leading full-stack product development across responsive web applications, workflow platforms, dashboards, and reusable frontend foundations.</p>
-          <div class="metric-line"><span class="pill">React</span><span class="pill">Next.js</span><span class="pill">TypeScript</span><span class="pill">Node.js</span><span class="pill">Java / SpringBoot</span><span class="pill">Rust</span><span class="pill">Go</span></div>
+          <div class="bento-icon">⚙</div>
+          <h3>Technology-Agnostic Platform Engineering</h3>
+          <p>Translating business capabilities into fit-for-purpose architectures and selecting the right combination of frontend, backend, data, integration, cloud, and delivery technologies for each platform.</p>
+          <div class="metric-line"><span class="pill">Java / Spring Boot</span><span class="pill">Node.js</span><span class="pill">React</span><span class="pill">Rust</span><span class="pill">GraphQL</span><span class="pill">AWS</span><span class="pill">OpenShift</span></div>
         </article>
         <article class="bento-card bento-card--small card">
           <div class="bento-icon">🔐</div>
-          <h3>Secure Platform Modernization</h3>
-          <p>Transforming tightly coupled applications into API-led, observable, and resilient services that are simpler to evolve.</p>
-          <div class="metric-line"><span class="pill">APIs</span><span class="pill">Microservices</span><span class="pill">BFF</span></div>
+          <h3>Identity, Authorization And Secure Access</h3>
+          <p>Applying IAM, fine-grained authorization, authentication, authorization, secure API contracts, BFF patterns, and access-control models to dependable product and platform experiences.</p>
+          <div class="metric-line"><span class="pill">IAM</span><span class="pill">FGA</span><span class="pill">OAuth2</span><span class="pill">RBAC</span><span class="pill">API Security</span></div>
         </article>
         <article class="bento-card bento-card--half card">
-          <div class="bento-icon">📈</div>
-          <h3>Engineering Outcomes</h3>
-          <div class="impact-number">~10ms → 2ms</div>
-          <div class="impact-caption">Critical Request-Path Improvement Through Streamlined Routing, Caching, And Integration Flows.</div>
+          <div class="bento-icon">📡</div>
+          <h3>Distributed Systems And Reliability</h3>
+          <p>Improving production readiness through event-driven services, Kafka consumer-lag monitoring, DLQ handling, proactive alerts, caching, APM, and searchable operational visibility.</p>
+          <div class="metric-line"><span class="pill">Kafka</span><span class="pill">Redis</span><span class="pill">AppDynamics</span><span class="pill">Elasticsearch</span><span class="pill">Kibana</span></div>
         </article>
         <article class="bento-card bento-card--half card">
           <div class="bento-icon">✦</div>
-          <h3>AI Adoption With Purpose</h3>
-          <p>Applying AI-assisted engineering and MCP automation to migration analysis, developer workflows, code quality, and team productivity.</p>
-          <div class="metric-line"><span class="pill">MCP Automation</span><span class="pill">Modernization</span><span class="pill">Developer Experience</span></div>
+          <h3>Generative AI And Agentic Engineering</h3>
+          <p>Applying Generative AI and agentic patterns to software modernization, knowledge retrieval, engineering automation, developer workflows, and intelligent product experiences—supported by practical MCP-enabled migration analysis already introduced in enterprise delivery.</p>
+          <div class="metric-line"><span class="pill">Generative AI</span><span class="pill">Agentic AI</span><span class="pill">AI Agents</span><span class="pill">LLM Applications</span><span class="pill">RAG</span><span class="pill">MCP</span><span class="pill">Tool Calling</span></div>
         </article>
       </div>
     </section>
@@ -459,35 +506,54 @@ permalink: /
     <section id="expertise" class="reveal" aria-labelledby="expertise-heading">
       <div class="section-header">
         <div>
-          <h2 class="section-title" id="expertise-heading">Technical Breadth With Leadership-Level Depth.</h2>
-          <p class="section-copy">The profile language below is intentionally optimized for LinkedIn recruiters and hiring teams searching for modern engineering, banking technology, platform architecture, and AI adoption expertise.</p>
+          <p class="section-label">Expertise</p>
+          <h2 class="section-title" id="expertise-heading">Leadership, Architecture, And Engineering Capabilities.</h2>
+          <p class="section-copy">I combine technology-agnostic architecture, platform engineering, hands-on product delivery, and AI-enabled engineering with domain knowledge spanning identity, financial services, sustainability, analytics, smart infrastructure, and insurance.</p>
         </div>
       </div>
 
       <div class="skills-layout">
         <article class="keyword-card card">
-          <h3>Profile Keywords</h3>
-          <p>Search-aligned terms naturally represented across the page, headline, experience, and skills sections.</p>
+          <h3>Industry Domain Expertise</h3>
+          <p>Cross-industry knowledge applied to platform strategy, architecture, modernization, security, product delivery, and operational excellence.</p>
           <div class="keyword-list">
-            <span class="pill">Engineering Leadership</span><span class="pill">Technical Strategy</span><span class="pill">Platform Engineering</span><span class="pill">Staff Software Engineer</span><span class="pill">Lead Software Engineer</span><span class="pill">Digital Transformation</span><span class="pill">Banking Technology</span><span class="pill">FinTech</span><span class="pill">API Architecture</span><span class="pill">Cloud-Native</span><span class="pill">Distributed Systems</span><span class="pill">AI Engineering</span><span class="pill">Product Delivery</span><span class="pill">Engineering Excellence</span>
+            <span class="pill">IAM &amp; Identity Security</span>
+            <span class="pill">Fine-Grained Authorization (FGA)</span>
+            <span class="pill">Retail &amp; Core Banking</span>
+            <span class="pill">Digital Banking &amp; FinTech</span>
+            <span class="pill">Wealth &amp; Investment Technology</span>
+            <span class="pill">Insurance Technology</span>
+            <span class="pill">Sustainability, ESG &amp; Carbon Markets</span>
+            <span class="pill">Smart Buildings &amp; BMS</span>
+            <span class="pill">Decision Analytics &amp; Data Platforms</span>
+            <span class="pill">Financial Services Modernization</span>
+            <span class="pill">Enterprise SaaS &amp; Developer Experience</span>
+            <span class="pill">Secure API &amp; Integration Platforms</span>
           </div>
         </article>
 
         <article class="skills-panel card">
           <div class="skill-controls" role="tablist" aria-label="Skill Categories">
             <button class="filter-button active" type="button" role="tab" aria-selected="true" data-filter="all">All Skills</button>
+            <button class="filter-button" type="button" role="tab" aria-selected="false" data-filter="leadership">Leadership</button>
+            <button class="filter-button" type="button" role="tab" aria-selected="false" data-filter="domain">Domains</button>
             <button class="filter-button" type="button" role="tab" aria-selected="false" data-filter="product">Product</button>
             <button class="filter-button" type="button" role="tab" aria-selected="false" data-filter="platform">Platform</button>
             <button class="filter-button" type="button" role="tab" aria-selected="false" data-filter="cloud">Cloud</button>
             <button class="filter-button" type="button" role="tab" aria-selected="false" data-filter="ai">AI</button>
           </div>
           <div class="skill-grid" id="skill-grid">
-            <article class="skill-item" data-category="product"><h4>Product And Full-Stack Engineering</h4><p>React, Next.js, TypeScript, Node.js, Java, Spring Boot, REST, GraphQL, SSR, ISR.</p></article>
-            <article class="skill-item" data-category="platform"><h4>API And Integration Architecture</h4><p>API Gateway, BFF, Microservices, Finacle Integration, 3scale, RBAC, Secure API Contracts.</p></article>
-            <article class="skill-item" data-category="platform"><h4>Distributed Systems And Performance</h4><p>Apache Kafka, Redis, Event-Driven Workflows, DLQ Handling, Caching, Reliability Patterns.</p></article>
-            <article class="skill-item" data-category="cloud"><h4>Cloud, DevOps, And Observability</h4><p>AWS, OpenShift, Kubernetes, Docker, Jenkins, GitHub Actions, AppDynamics, ELK.</p></article>
-            <article class="skill-item" data-category="ai"><h4>AI Adoption And Automation</h4><p>AI-Assisted Development, MCP Automation, Java-To-Node Analysis, Developer Productivity, Code Modernization.</p></article>
-            <article class="skill-item" data-category="product"><h4>Leadership And Delivery</h4><p>Technical Leadership, Mentoring, Agile Delivery, Engineering Standards, Release Governance, Stakeholder Alignment.</p></article>
+            <article class="skill-item" data-category="leadership"><h4>Engineering Leadership And Delivery</h4><p>Technical strategy, architecture, mentoring, Agile/Scrum, stakeholder management, cross-functional delivery, release governance, and engineering standards.</p></article>
+            <article class="skill-item" data-category="domain"><h4>Industry And Product Domains</h4><p>IAM, FGA, identity security, banking, wealth, insurance, sustainability, carbon markets, analytics, smart buildings, building management, financial services, and enterprise SaaS.</p></article>
+            <article class="skill-item" data-category="product"><h4>Frontend And Product Engineering</h4><p>React, Next.js, TypeScript, Angular, AngularJS, SSR/ISR, responsive dashboards, design systems, microfrontends, accessibility.</p></article>
+            <article class="skill-item" data-category="platform"><h4>Backend, APIs, Identity And Security</h4><p>Java, Spring Boot, Node.js, JavaScript, TypeScript, Rust, REST, GraphQL, API Gateway, BFF, IAM, fine-grained authorization (FGA), OAuth2, RBAC, authentication, and authorization.</p></article>
+            <article class="skill-item" data-category="platform"><h4>Distributed Systems And Data</h4><p>Microservices, event-driven services, Apache Kafka, Redis, SQL, PostgreSQL, MySQL, MongoDB, Elasticsearch, caching, DLQ handling, consumer-lag monitoring.</p></article>
+            <article class="skill-item" data-category="cloud"><h4>Cloud, DevOps And Observability</h4><p>AWS, OpenShift, Kubernetes, Docker, 3scale API Management, Jenkins, GitHub Actions, CI/CD, AppDynamics APM, CloudWatch, Kibana.</p></article>
+            <article class="skill-item" data-category="ai"><h4>Generative AI And LLM Applications</h4><p>Generative AI, large language models, prompt engineering, structured outputs, embeddings, semantic search, retrieval-augmented generation (RAG), and intelligent enterprise experiences.</p></article>
+            <article class="skill-item" data-category="ai"><h4>Agentic AI And AI Agents</h4><p>Agentic workflows, AI agents, tool calling, orchestration, planning, memory, human-in-the-loop controls, Model Context Protocol (MCP), and workflow automation.</p></article>
+            <article class="skill-item" data-category="ai"><h4>AI-Enabled Software Engineering</h4><p>AI-assisted development, MCP-enabled migration analysis, Java-to-Node modernization, code understanding, test generation, documentation, developer productivity, and engineering workflow acceleration.</p></article>
+            <article class="skill-item" data-category="ai"><h4>Responsible AI Delivery</h4><p>Evaluation, observability, guardrails, security, access control, grounding, auditability, cost awareness, reliability, and production-readiness for AI-enabled systems.</p></article>
+            <article class="skill-item" data-category="leadership"><h4>Design, Testing And Quality</h4><p>System design, data structures and algorithms, OOP, SOLID, design patterns, API documentation, unit testing, integration testing, API testing, Jest, Cypress, TDD.</p></article>
           </div>
         </article>
       </div>
@@ -496,9 +562,9 @@ permalink: /
     <section id="experience" class="reveal" aria-labelledby="experience-heading">
       <div class="section-header">
         <div>
-          <p class="section-label">Selected Experience</p>
-          <h2 class="section-title" id="experience-heading">Engineering Leadership Across High-Trust Digital Products.</h2>
-          <p class="section-copy">A focused record of hands-on delivery, platform modernization, and team enablement across banking, SaaS, sustainability, and enterprise software.</p>
+          <p class="section-label">Experience</p>
+          <h2 class="section-title" id="experience-heading">Engineering Across Identity, Financial Services, Sustainability, Analytics, And Smart Infrastructure.</h2>
+          <p class="section-copy">Each role combines a distinct industry domain with transferable platform, product, architecture, security, cloud, and delivery capabilities.</p>
         </div>
       </div>
 
@@ -506,20 +572,23 @@ permalink: /
         <article class="role-card card">
           <div class="role-main">
             <div>
-              <div class="role-topline"><h3>Lead Software Engineer</h3><span class="pill">Retail Banking Platform Modernization</span></div>
-              <div class="company">Emirates NBD</div>
-              <p class="role-summary">Leading secure API-led modernization across core-banking integrations, distributed services, observability, and AI-enabled engineering workflows.</p>
-              <div class="role-keywords"><span class="pill">Node.js</span><span class="pill">Java / Spring Boot</span><span class="pill">Kafka</span><span class="pill">Redis</span><span class="pill">OpenShift</span><span class="pill">3scale</span></div>
+              <div class="role-topline"><h3>Engineering Lead</h3><span class="pill">Retail Banking · Core Banking · FinTech</span></div>
+              <div class="company">Emirates NBD · Bengaluru</div>
+              <p class="role-summary">Leading secure, API-led modernization across frontend, backend, core-banking integration, QA, DevOps, and platform teams.</p>
+              <div class="role-keywords"><span class="pill">Java / Spring Boot</span><span class="pill">Node.js</span><span class="pill">React</span><span class="pill">Rust</span><span class="pill">Kafka</span><span class="pill">Redis</span><span class="pill">OpenShift</span><span class="pill">3scale</span></div>
             </div>
             <time class="period" datetime="2025-11">Nov 2025 – Present</time>
           </div>
           <details class="role-details">
             <summary>View Impact And Responsibilities</summary>
             <ul>
-              <li>Modernizing core-banking integrations into secure, reusable <strong>API-led services</strong> using Node.js, Java/Spring Boot, Rust, Redis, Kafka, OpenShift, and 3scale.</li>
-              <li>Reduced a critical request path from <strong>approximately 10 ms to 2 ms</strong> through streamlined routing, caching, and integration flows.</li>
-              <li>Strengthened production resilience through Kafka consumer-lag monitoring, DLQ workflows, AppDynamics APM, and Elasticsearch/Kibana observability.</li>
-              <li>Introduced AI-assisted development and MCP automation for Java-to-Node migration analysis and engineering productivity.</li>
+              <li>Modernizing legacy core-banking integration applications into secure, scalable, API-led platforms using Java, Spring Boot, Node.js, React, Rust, Redis, Kafka, OpenShift, and 3scale API Management.</li>
+              <li>Driving architecture, delivery planning, sprint execution, technical reviews, dependency management, and stakeholder communication across distributed engineering teams.</li>
+              <li>Built lightweight backend services and reusable API contracts to improve frontend/backend independence, reduce integration gaps, and accelerate delivery.</li>
+              <li>Improved platform reliability through Kafka consumer-lag monitoring, DLQ handling, proactive alerts, AppDynamics APM, Elasticsearch, and Kibana observability.</li>
+              <li>Strengthened production readiness with secure API governance, branching strategy, release standards, and operational visibility.</li>
+              <li>Introduced AI-assisted engineering workflows and MCP-enabled agents for migration analysis, code modernization, and developer productivity—creating a foundation for broader Generative AI and agentic engineering adoption.</li>
+              <li>Mentoring engineers across solution design, code quality, ownership, and delivery predictability.</li>
             </ul>
           </details>
         </article>
@@ -527,19 +596,20 @@ permalink: /
         <article class="role-card card">
           <div class="role-main">
             <div>
-              <div class="role-topline"><h3>Staff Software Engineer</h3><span class="pill">Product Experience</span></div>
-              <div class="company">Okta</div>
-              <p class="role-summary">Built performant, multilingual, mobile-first content and dashboard experiences that improved discoverability, publishing workflows, and product usability.</p>
-              <div class="role-keywords"><span class="pill">React</span><span class="pill">Next.js</span><span class="pill">GraphQL</span><span class="pill">AWS</span><span class="pill">SEO</span><span class="pill">i18n</span></div>
+              <div class="role-topline"><h3>Staff Software Engineer</h3><span class="pill">IAM · Identity Security · Developer Experience</span></div>
+              <div class="company">Okta Inc · Bengaluru</div>
+              <p class="role-summary">Built performant, multilingual product and developer experiences within a global IAM and identity-security platform environment, improving discoverability, publishing workflows, and usability.</p>
+              <div class="role-keywords"><span class="pill">React</span><span class="pill">Next.js</span><span class="pill">Node.js</span><span class="pill">GraphQL</span><span class="pill">Redis</span><span class="pill">AWS</span><span class="pill">SSR / ISR</span></div>
             </div>
-            <time class="period" datetime="2024-03">Mar 2024 – Oct 2025</time>
+            <time class="period" datetime="2024-03">Mar 2024 – Jun 2025</time>
           </div>
           <details class="role-details">
             <summary>View Impact And Responsibilities</summary>
             <ul>
-              <li>Built multilingual, mobile-first documentation and dashboard experiences with React, Next.js, Node.js, GraphQL, Redis, and AWS.</li>
-              <li>Improved discoverability and page performance through SSR and ISR, delivering faster, SEO-friendly content experiences.</li>
-              <li>Streamlined i18n onboarding and translation workflows for localized product publishing.</li>
+              <li>Built and modernized multilingual documentation and dashboard platforms using React, Next.js, Node.js, GraphQL, Redis, and AWS.</li>
+              <li>Implemented SSR, ISR, reusable UI patterns, and SEO-friendly architecture to improve performance, maintainability, and global product adoption.</li>
+              <li>Streamlined i18n onboarding and translation workflows, enabling faster localized content publishing across global teams.</li>
+              <li>Collaborated with product, design, documentation, and engineering teams to improve developer experience, content discoverability, and scalable frontend architecture.</li>
             </ul>
           </details>
         </article>
@@ -547,19 +617,20 @@ permalink: /
         <article class="role-card card">
           <div class="role-main">
             <div>
-              <div class="role-topline"><h3>Software Consultant</h3><span class="pill">Carbon Credit Exchange Platform</span></div>
-              <div class="company">Randstad</div>
-              <p class="role-summary">Created secure, role-based workflow and analytics capabilities that replaced manual carbon-credit reporting and improved audit-ready traceability.</p>
-              <div class="role-keywords"><span class="pill">React</span><span class="pill">Node.js</span><span class="pill">GraphQL</span><span class="pill">MongoDB</span><span class="pill">JWT / RBAC</span></div>
+              <div class="role-topline"><h3>Software Consultant</h3><span class="pill">Sustainability · ESG · Carbon Markets</span></div>
+              <div class="company">Randstad · Bengaluru</div>
+              <p class="role-summary">Replaced manual sustainability reporting with role-based dashboards, scalable exchange services, secure workflows, and audit-ready traceability.</p>
+              <div class="role-keywords"><span class="pill">React</span><span class="pill">Node.js</span><span class="pill">GraphQL</span><span class="pill">MongoDB</span><span class="pill">AWS</span><span class="pill">JWT / RBAC</span></div>
             </div>
             <time class="period" datetime="2022-06">Jun 2022 – May 2023</time>
           </div>
           <details class="role-details">
             <summary>View Impact And Responsibilities</summary>
             <ul>
-              <li>Replaced manual carbon-credit reporting with automated, role-based dashboards using React, Node.js, GraphQL, MongoDB, and AWS.</li>
-              <li>Built exchange APIs and workflow services for trade, validation, and analytics flows.</li>
-              <li>Automated secure releases with Docker and GitHub Actions; implemented JWT/RBAC and audit-ready data traceability.</li>
+              <li>Replaced manual carbon-credit reporting with automated, role-based React dashboards and Node.js/GraphQL services, providing near-real-time visibility into trade, verification, and sustainability data.</li>
+              <li>Built scalable exchange workflows using React, Node.js, GraphQL, MongoDB, and AWS for analytics, workflow traceability, and secure access.</li>
+              <li>Automated secure releases with Docker and GitHub Actions; implemented JWT and RBAC controls for audit-ready, multi-user workflows.</li>
+              <li>Led solution design, technology selection, performance benchmarking, and mentoring.</li>
             </ul>
           </details>
         </article>
@@ -567,9 +638,9 @@ permalink: /
         <article class="role-card card">
           <div class="role-main">
             <div>
-              <div class="role-topline"><h3>Advanced Software Engineer</h3><span class="pill">Building Management And Sustainability</span></div>
-              <div class="company">Honeywell</div>
-              <p class="role-summary">Modernized enterprise B2B dashboards and reusable frontend foundations for monitoring, sustainability, and operational decision-making.</p>
+              <div class="role-topline"><h3>Advanced Software Engineer</h3><span class="pill">Smart Buildings · BMS · Sustainability</span></div>
+              <div class="company">Honeywell · Bengaluru</div>
+              <p class="role-summary">Modernized enterprise dashboards and established reusable design-system and microfrontend foundations for operational and sustainability workflows.</p>
               <div class="role-keywords"><span class="pill">React</span><span class="pill">TypeScript</span><span class="pill">Redux</span><span class="pill">Design Systems</span><span class="pill">Microfrontends</span></div>
             </div>
             <time class="period" datetime="2020-06">Jun 2020 – Mar 2022</time>
@@ -577,9 +648,10 @@ permalink: /
           <details class="role-details">
             <summary>View Impact And Responsibilities</summary>
             <ul>
-              <li>Modernized enterprise building-management dashboards with React, TypeScript, and Redux.</li>
-              <li>Built reusable design-system components and microfrontend-ready foundations for B2B monitoring and sustainability workflows.</li>
-              <li>Improved responsiveness and reliability through stronger client-side state, rendering, and API-integration patterns.</li>
+              <li>Modernized enterprise building-management and sustainability dashboards with React, TypeScript, and Redux, replacing fragmented UI flows with reusable domain modules.</li>
+              <li>Established design-system components and microfrontend-ready foundations, improving consistency across B2B monitoring, operational, and sustainability workflows.</li>
+              <li>Optimized client-side state, rendering, and API integration patterns for responsive, reliable dashboards using real-time infrastructure data.</li>
+              <li>Collaborated with product, security, device-integration, and platform teams on multi-tenant delivery.</li>
             </ul>
           </details>
         </article>
@@ -587,44 +659,101 @@ permalink: /
         <article class="role-card card">
           <div class="role-main">
             <div>
-              <div class="role-topline"><h3>Earlier Engineering Experience</h3><span class="pill">Financial Services, Analytics, And Insurance</span></div>
-              <div class="company">Altimetrik · IBM / J.P. Morgan Chase · MFX Infotech</div>
-              <p class="role-summary">Delivered real-time analytics, internal financial tools, and multi-brand B2B, B2C, and B2B2C insurance portals across modern web stacks.</p>
-              <div class="role-keywords"><span class="pill">React</span><span class="pill">Angular</span><span class="pill">RxJS</span><span class="pill">PostgreSQL</span><span class="pill">Docker</span><span class="pill">Cloud Foundry</span></div>
+              <div class="role-topline"><h3>Senior Software Engineer</h3><span class="pill">Decision Analytics · Data Platforms</span></div>
+              <div class="company">Altimetrik · Bengaluru</div>
+              <p class="role-summary">Built a cloud-based decision analytics platform that transformed operational data into modular, actionable dashboards.</p>
+              <div class="role-keywords"><span class="pill">React</span><span class="pill">Node.js</span><span class="pill">GraphQL</span><span class="pill">Docker</span><span class="pill">AWS</span><span class="pill">Subscriptions</span></div>
             </div>
-            <time class="period" datetime="2016">2016 – 2020</time>
+            <time class="period" datetime="2019-11">Nov 2019 – Jun 2020</time>
           </div>
           <details class="role-details">
             <summary>View Impact And Responsibilities</summary>
             <ul>
-              <li>Built real-time decision analytics platforms using React, Node.js, GraphQL, Docker, and AWS.</li>
-              <li>Modernized internal financial tools using React, Angular, RxJS, Redux, and Cloud Foundry.</li>
-              <li>Delivered multi-brand B2B, B2C, and B2B2C insurance portals using AngularJS, REST APIs, and PostgreSQL.</li>
+              <li>Built DataMetrik, a cloud-based decision analytics platform using React, Node.js, GraphQL, Docker, and AWS.</li>
+              <li>Designed GraphQL schemas and subscription-driven updates for responsive analytics workflows.</li>
+              <li>Standardized containerized services, shared microfrontend components, and AWS environment configuration across multi-team releases.</li>
+            </ul>
+          </details>
+        </article>
+
+        <article class="role-card card">
+          <div class="role-main">
+            <div>
+              <div class="role-topline"><h3>Advisory System Analyst</h3><span class="pill">Banking &amp; Financial Services Modernization</span></div>
+              <div class="company">IBM · Bengaluru</div>
+              <p class="role-summary">Modernized internal financial tools and supported data digitization, workflow automation, stakeholder alignment, and release coordination.</p>
+              <div class="role-keywords"><span class="pill">React</span><span class="pill">Angular</span><span class="pill">RxJS</span><span class="pill">Redux</span><span class="pill">Cloud Foundry</span></div>
+            </div>
+            <time class="period" datetime="2017-11">Nov 2017 – Jul 2019</time>
+          </div>
+          <details class="role-details">
+            <summary>View Impact And Responsibilities</summary>
+            <ul>
+              <li>Modernized internal financial tools using React, Angular, RxJS, and Redux, moving legacy workflows toward modular, reusable web applications.</li>
+              <li>Built shared UI components and Cloud Foundry integration layers.</li>
+              <li>Supported data digitization, workflow automation, stakeholder alignment, and release coordination for business-critical back-office platforms.</li>
+            </ul>
+          </details>
+        </article>
+
+        <article class="role-card card">
+          <div class="role-main">
+            <div>
+              <div class="role-topline"><h3>Senior Software Engineer</h3><span class="pill">Insurance Technology · B2B · B2C · B2B2C</span></div>
+              <div class="company">MFX Infotech · Bengaluru</div>
+              <p class="role-summary">Delivered responsive B2B, B2C, and B2B2C insurance journeys with reusable UI patterns, backend integrations, and component-level testing.</p>
+              <div class="role-keywords"><span class="pill">AngularJS</span><span class="pill">REST APIs</span><span class="pill">PostgreSQL</span><span class="pill">MySQL</span><span class="pill">Responsive UI</span></div>
+            </div>
+            <time class="period" datetime="2016-01">Jan 2016 – Mar 2017</time>
+          </div>
+          <details class="role-details">
+            <summary>View Impact And Responsibilities</summary>
+            <ul>
+              <li>Built multi-brand insurance portals for B2B, B2C, and B2B2C users using AngularJS, REST APIs, PostgreSQL, and MySQL.</li>
+              <li>Delivered responsive, brand-aligned insurance journeys with reusable UI patterns, backend integration, and component-level test coverage.</li>
             </ul>
           </details>
         </article>
       </div>
     </section>
 
+    <section id="education" class="reveal" aria-labelledby="education-heading">
+      <div class="section-header">
+        <div>
+          <p class="section-label">Education</p>
+          <h2 class="section-title" id="education-heading">Engineering Foundation.</h2>
+        </div>
+      </div>
+      <article class="education-card card">
+        <div class="education-mark" aria-hidden="true">BE</div>
+        <div>
+          <h3>Bachelor of Engineering — Electronics and Communication</h3>
+          <p>Thiagarajar College of Engineering · Anna University</p>
+          <div class="education-meta"><span class="pill">Engineering</span><span class="pill">Electronics</span><span class="pill">Communication Systems</span></div>
+        </div>
+      </article>
+    </section>
+
     <section id="connect" class="reveal" aria-labelledby="connect-heading">
       <div class="featured-grid">
         <article class="feature-card card">
-          <p class="section-label">Why Work With Me</p>
-          <h3>From Complex Delivery To Trusted Platform Outcomes.</h3>
-          <p>I combine hands-on engineering, product judgment, and delivery leadership to build secure digital platforms that improve customer journeys and scale with the business.</p>
+          <p class="section-label">Leadership Value</p>
+          <h3>Adaptable Engineering, AI-Enabled Platforms, And Reliable Delivery.</h3>
+          <p>I connect business domains with technology-agnostic architecture, secure platforms, Generative AI and agentic engineering, product delivery, team development, and production reliability.</p>
           <ul class="feature-list">
-            <li><i>✓</i><span><strong>Platform-First Thinking:</strong> I turn product needs into reusable APIs, resilient services, and cloud-native foundations that reduce future delivery effort.</span></li>
-            <li><i>✓</i><span><strong>Engineering Leadership In Practice:</strong> I set technical direction, strengthen ownership, mentor engineers, and create clear standards for quality and delivery.</span></li>
-            <li><i>✓</i><span><strong>Business Impact With Technical Depth:</strong> I focus on performance, reliability, secure integrations, speed to market, and measurable value for customers and stakeholders.</span></li>
+            <li><i>✓</i><span><strong>Technical Strategy:</strong> Translate business and customer needs into secure architecture, practical roadmaps, reusable standards, and clearly owned delivery plans.</span></li>
+            <li><i>✓</i><span><strong>Platform Engineering:</strong> Build API-led, cloud-native, observable foundations that support product teams and reduce integration friction.</span></li>
+            <li><i>✓</i><span><strong>Engineering Excellence:</strong> Improve code quality, mentoring, release governance, production readiness, and delivery predictability across teams.</span></li>
           </ul>
         </article>
 
         <article class="connect-card card">
           <p class="section-label">Let’s Connect</p>
-          <h2 class="section-title" id="connect-heading">Build The Next Reliable, Scalable Platform.</h2>
-          <p>For Staff Engineer, Lead Software Engineer, Principal Engineer, Technical Lead, Product Engineering, and platform modernization opportunities.</p>
+          <h2 class="section-title" id="connect-heading">Let’s Build A Platform Customers Can Trust.</h2>
+          <p>Relevant for Engineering Lead, Staff Software Engineer, Lead Software Engineer, Principal Engineer, Technical Lead, Platform Engineering, FinTech, and digital transformation opportunities.</p>
           <div class="contact-actions">
             <a class="button button-primary" href="mailto:santhosekumar@ymail.com">Start A Conversation <span aria-hidden="true">↗</span></a>
+            <a class="button button-secondary" href="assets/Santhose-Kumar-S-Resume.pdf" download>Download Resume <span aria-hidden="true">↓</span></a>
             <a class="button button-secondary" href="tel:+919035361129">Call +91 90353 61129</a>
           </div>
           <div class="profile-links">
@@ -633,11 +762,12 @@ permalink: /
             <a href="https://medium.com/@santhosekumar_38747" target="_blank" rel="noreferrer">Medium ↗</a>
             <a href="mailto:santhosekumar@ymail.com">santhosekumar@ymail.com</a>
           </div>
+          <p class="source-note">Portfolio content is aligned to the current resume and professional profile positioning.</p>
         </article>
       </div>
     </section>
 
-    <footer>© <span id="year"></span> Santhose Kumar S · Product, Platform &amp; AI Engineering Leader.</footer>
+    <footer>© <span id="year"></span> Santhose Kumar S · Technology-Agnostic Engineering Lead.</footer>
   </main>
 
   <div class="toast" id="toast" role="status" aria-live="polite">Email Address Copied.</div>
